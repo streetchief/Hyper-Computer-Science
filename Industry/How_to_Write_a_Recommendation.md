@@ -8,7 +8,7 @@
 
 # Strategy 2
 1) knockout line
-2) describe relationship - when, where and how long
+2) describe relationship - when, where, how long
 3) Standout trait
 4) Touch of personality
 5) End with enthusiasm

@@ -19,10 +19,11 @@ A stack is an abstract data type that serves as a collection of elements.
 ## Basics and nomenclature
 
 ```
-class Stack:
+class Stack {
     maxsize: number
     size: number
     items: any[]
+}
 ```
 
 ## Uses

@@ -2,6 +2,7 @@
 - https://git-rebase.io/
 - https://en.wikipedia.org/wiki/Software_development_process
 - https://github.com/NationalBankBelgium/REST-API-Design-Guide/wiki/
+- https://medium.com/hackernoon/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
 
 # Read/Watch
 ## Data Structures

@@ -17,4 +17,14 @@
 
 ## Uses of
 
-## Operations and PsuedoCode
+## Methods, Operations, and PsuedoCode
+
+### Essential
+
+### Common/Optional
+
+## Implementation
+
+<details>
+<summary>Javascript Implementation</summary>
+</details>
