@@ -1,10 +1,14 @@
 # Stack
 
+## Definition
+
+A stack is an abstract data type that serves as a collection of elements.
+
 [Wikipedia Entry](<https://en.wikipedia.org/wiki/Stack_(abstract_data_type)>)
 
-## Key points
+[GeeksForGeeks](https://www.geeksforgeeks.org/stack-data-structure/)
 
-> A stack is an abstract data type that serves as a collection of elements.
+## Key points
 
 > LIFO (last in, first out)
 
@@ -15,10 +19,10 @@
 ## Basics and nomenclature
 
 ```
-structure Stack:
-    maxsize : integer
-    size : integer
-    items : array of item
+class Stack:
+    maxsize: number
+    size: number
+    items: any[]
 ```
 
 ## Uses

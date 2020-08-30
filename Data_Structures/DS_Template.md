@@ -1,6 +1,9 @@
 # DS name
 
+## Definition
+
 [Wikipedia Entry](https://en.wikipedia.org/wiki/)
+[GeeksForGeeks Entry](https://www.geeksforgeeks.org/data-structures)
 
 ## Key points
 

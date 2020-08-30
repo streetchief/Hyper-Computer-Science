@@ -1,10 +1,14 @@
 # Linked List
 
-[Wikipedia Entry](https://en.wikipedia.org/wiki/Linked_list)
+## Definition
+
+A linked list is a linear collection of data elements whose order is not given by their physical placement in memory. Instead, each element points to the next.
+
+[Wikipedia](https://en.wikipedia.org/wiki/Linked_list)
+
+[GeeksForGeeks](https://www.geeksforgeeks.org/data-structures/linked-list/)
 
 ## Key points
-
-> ...a linked list is a linear collection of data elements whose order is not given by their physical placement in memory. Instead, each element points to the next.
 
 > They can be used to implement several other common abstract data types, including lists, stacks, queues, associative arrays, and S-expressions
 
@@ -48,7 +52,7 @@
   - Often easier to manipulate because they allow fast and easy sequential access to the list in both directions.
 - Multiply linked (rare)
 - Cicular linked
-    - ...Natural option to represent arrays that are naturally circular, e.g. the corners of a polygon.
+  - ...Natural option to represent arrays that are naturally circular, e.g. the corners of a polygon.
 
 ## Operations and PsuedoCode
 
