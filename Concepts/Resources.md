@@ -103,7 +103,6 @@
 
  # Notes
  - [Markdown cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists)
- - [Google Doc](https://docs.google.com/document/d/14eiCL7iFZjwbQlUXa4klPytCBqz9YPHzspyR-i5V5yE/edit)
  - [Reddit Career Advice](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
  - [VSCode Keyboard reference](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
  
