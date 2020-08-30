@@ -1,5 +1,7 @@
-#Coding Challenges
+# Whiteboarding Strategies
+
 ## REACTO
+
 - Repeat: state the problem to check comprehension
 - Examples: consider possible use and edge cases
 - Approach: state strategy for accomplishing goal
@@ -7,9 +9,8 @@
 - Test: check that example cases pass correctly
 - Optimize: discuss ways of improving performance
 
-or
+## CtCI
 
-## CCI
 - Listen
 - Examples
 - Brute Force
@@ -18,18 +19,21 @@ or
 - Implement
 - Test
 
-## Hints
+### Need a Hint?
+
 - Look for unused info
 - Fresh example
-- Best conceivable runtime (BCR) - given a _problem_ what is the best outcome possible?
+- Best Conceivable Runtime (BCR) - given a _problem_ what is the best outcome possible?
 
-## Optimizations
-- Trade space for time (or possible vice versa)
-- Pre-compute info (e.g. sort)
-- use a hash table/cache
-- think of best runtime
+### Optimizations to Consider
 
-### Techniques
+- Trade space for time, or possibly vice versa
+- Pre-compute info i.e. sort
+- Use a hash table/cache
+- Consider Best Conceivable Runtime (BCR)
+
+### Optimization Techniques
+
 - B.U.D. - Bottlenecks, Unnecessary work, Duplicated work
 - DIY - Use real example and try it
 - Simplify and generalize
