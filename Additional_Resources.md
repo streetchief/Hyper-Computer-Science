@@ -5,29 +5,6 @@
 - https://medium.com/hackernoon/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
 
 # Read/Watch
-## Data Structures
-- [Linked List](https://en.wikipedia.org/wiki/Linked_list)
-- [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
-- [Queue](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))
-- [Tree](https://en.wikipedia.org/wiki/Tree_(data_structure))
-- [binary tree](https://en.wikipedia.org/wiki/binary_tree)
-- [Binary Search Tree](https://en.wikipedia.org/wiki/Binary_search_tree)
-- [Heap](https://en.wikipedia.org/wiki/Heap_(data_structure))
-- [Hash Table](https://en.wikipedia.org/wiki/Hash_table)
-- [Trie](https://en.wikipedia.org/wiki/Trie)
-- [Graph](https://en.wikipedia.org/wiki/Graph_(abstract_data_type))
-- [Linked Hash Map](https://www.geeksforgeeks.org/linkedhashmap-class-java-examples/)
-- [Rope](https://en.wikipedia.org/wiki/Rope_(data_structure))
-
-## Sorting
-- [Mergesort](https://en.wikipedia.org/wiki/Merge_sort)
-- [Quicksort](https://en.wikipedia.org/wiki/Quicksort)
-
-## Tree Traversal
-- in-order, pre-order, post-order, level-order
-
-## Graph traversal
-- Dijkstra's, A*, BFS, DF
 
 ## Javascript
 - [Inheritance](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)

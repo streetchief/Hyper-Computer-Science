@@ -1,0 +1,1 @@
+trees, graphs and hash table entries need to use the template
