@@ -20,7 +20,7 @@
 
 ## Graph Searching
 
-- Dijkstra's, A\*, BFS, DF
+- Dijkstra's, A*, BFS, DF
 
 ## Misc.
 
