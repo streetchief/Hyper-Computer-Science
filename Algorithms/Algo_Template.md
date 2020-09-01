@@ -1,4 +1,4 @@
-# DS name
+# name
 
 ## Definition
 
@@ -6,7 +6,7 @@ foo
 
 [Wikipedia Entry](https://en.wikipedia.org/wiki/)
 
-[GeeksForGeeks Entry](https://www.geeksforgeeks.org/data-structures)
+[GeeksForGeeks Entry](https://www.geeksforgeeks.org/)
 
 ## Key points
 
@@ -14,17 +14,13 @@ foo
 
 ### Disadvantages
 
-## Basics and nomenclature
+## Additional Information
 
-## Types
+## PsuedoCode
 
-## Uses
+### English Language
 
-## Methods, Operations, and PsuedoCode
-
-### Essential
-
-### Common/Optional
+### Programmatic
 
 ## Implementation
 

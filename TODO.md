@@ -1,1 +1,3 @@
-trees, graphs and hash table entries need to use the template
+- trees, graphs and hash table ds entries need to use the template
+- bubble sort completion
+- djikstras needs to be finsihed

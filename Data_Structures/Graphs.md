@@ -28,3 +28,7 @@
 - Generally BFS preferred for shortest path aglos.
 - Use a queue for tracking nodes to visit
 - Bidirectional search: find shortest path, uses two BFS one from each node.
+
+https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
+https://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/
+https://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/
