@@ -1,5 +1,9 @@
 This is a collection of resources and explanations I have created, coallated, and collected over time to assist in my Computer Science education and career in development.
 
+Many people have shared with me, and I am sharing with you.
+
+Apologies for the lack of credits.
+
 Eventually I hope to create something simliar to the following incredible resources:
 
 [Hyper-Physics](http://hyperphysics.phy-astr.gsu.edu/hbase/hframe.html)
