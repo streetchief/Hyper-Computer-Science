@@ -23,41 +23,79 @@ In every iteration of selection sort, the minimum element (considering ascending
 
 ## PsuedoCode
 
+### English Language
+
 1. Store the first element as the smallest value you've seen so far.
 2. Compare this item to the next item in the array until you find a smaller number.
 3. If a smaller number is found, designate that smaller number to be the new "minimum" and continue until the end of the array.
 4. If the "minimum" is not the value (index) you initially began with, swap the two values.
 5. Repeat this with the next element until the array is sorted.
 
+### Programmatic
+
+- For every item index `i` to `length`
+  - Set min to item
+  - For every other element from `i + 1` to `length`
+    - If element is less than min
+      - Store index
+      - Set next number as new min
+    - If min is not equal item
+      - Swap elements
+
 ## Implementation
 
 <details>
-<summary>Javascript Implementation</summary>
+    <summary>Javascript Implementation</summary>
 
+```js
+function selectionSort(nums) {
+    let min;
+
+    for (let i = 0; i < nums.length; i++) {
+        min = i;
+        
+        for (let j = i + 1; j < n; j++) {
+            if (nums[j] < nums[min]) {
+                min = j;
+            }
+        }
+
+        swap(s[i], s[min])
+    }
+}
 ```
-function selectionSort(arr) {
-  const  length = arr.length;
 
-for (let anchor = 0; anchor < length; ++anchor) {
-    let minVal = arr[anchor];
-    let indexOfMin = anchor;
-    let needSwap = false;
+</details>
 
-        for (let i = anchor; i < length; i++) {
-        if (arr[i] < minVal) {
-            indexOfMin = i;
-            minVal = arr[i];
-            needSwap = true;
-        }
+<details>
+    <summary>Javascript Implementation with comparator</summary>
+
+```js
+function selectionSort(arr, fn) {
+    const comparator = typeof fn === "function" ? fn : (x, y) => x - y;
+
+    for (let ord = 0; ord < arr.length; ord++) {
+        let min = arr[ord];
+        let minIndex = ord;
+
+        for (let cursor = ord + 1; cursor < arr.length; cursor++) {
+            const nextNum = arr[cursor];
+
+            if (comparator(min, nextNum) > 0) {
+                min = nextNum;
+                minIndex = cursor;
+            }
         }
 
-        if (needSwap) {
-        arr[indexOfMin] = arr[anchor];
-        arr[anchor] = minVal;
-        needSwap = false;
-        }
+        if (min !== arr[ord]) swap(arr, ord, minIndex);
 
     }
+
+    return arr;
+}
+
+function swap(arr, i1, i2) {
+    [arr[i2], arr[i1]] = [arr[i1], arr[i2]];
 }
 ```
 
