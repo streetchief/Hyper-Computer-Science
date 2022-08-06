@@ -33,17 +33,17 @@ A queue is a collection of entities that are maintained in a sequence and can be
 
 - Basic Javascript implementation:
 
-  ```
+  ```js
   class Queue {
-      constructor() {
-          this.items = []
-      }
-      enqueue(element) {
-          this.items.push(element)
-      }
-      dequeue() {
-          return this.items.shift()
-      }
+    constructor() {
+      this.items = [];
+    }
+    enqueue(element) {
+      this.items.push(element);
+    }
+    dequeue() {
+      return this.items.shift();
+    }
   }
   ```
 
@@ -63,8 +63,10 @@ A queue is a collection of entities that are maintained in a sequence and can be
 ## Methods, Operations, and PsuedoCode
 
 ### Essential
+
 - `enqueue`
 - `dequeue`
 
 ## Common Optional
+
 - `peek`/`front` - examine the first element without removing it

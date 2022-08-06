@@ -23,6 +23,13 @@ Alternate CtCI
 5. Result
 6. What it says about me
 
+S.O.A.R. Method
+
+1.  Situation
+2.  Obstacles
+3.  Actions
+4.  Results
+
 # Phone Screen
 
 ## Questions They'll Ask
@@ -41,10 +48,12 @@ Alternate CtCI
 ## Questions to Ask
 
 - What do you like best about working for this company?
+- expectations 30/60/90
+- feedback and mentoring?
 - Team make up? QA/QE, UI/UX?
 - Office location and floor plan?
 - Company culture?
-- Flexible/remote work policy (esp. for things like doctor visits)?
+- Flexible/remote work policy (e.g. doctor visits)?
 - Development strategy - TDD? Agile? Pair Programming?
 - What kinds of mentorship and feedback are in place?
   - How is code review done?
@@ -67,7 +76,7 @@ Alternate CtCI
 - Where do you think the company is headed in the next 5 years?
 - Who do you consider your top competitor, and why?
 
-CEO
+## CEO
 
 - What are the biggest opportunities facing the company right now?
 - Where do you think the company is headed in the next 5 years?

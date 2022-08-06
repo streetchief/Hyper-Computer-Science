@@ -54,4 +54,4 @@ There are many types of binary search trees. AVL trees and red-black trees are b
 # Tries
 
 - Sometimes called a prefix tree, often used to store words, where each node is a character.
-- - or null node represents word termination, sort of memoization.
+  - or null node represents word termination, sort of memoization.

@@ -14,15 +14,15 @@ Given a graph, DSPF uses memory to create data structures for storing additional
 
 ### Advantages
 
-foo
+<!-- TODO -->
 
 ### Disadvantages
 
-bar
+<!-- TODO -->
 
 ## Additional Information
 
-baz
+<!-- TODO -->
 
 ## PsuedoCode
 
@@ -49,7 +49,7 @@ baz
 <details>
 <summary>Javascript Implementation</summary>
 
-```
+```js
 export class WeightedGraph {
   constructor() {
     this.list = {};

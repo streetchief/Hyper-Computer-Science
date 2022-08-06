@@ -33,12 +33,11 @@ A linked list is a linear collection of data elements whose order is not given b
 
 - Node example:
 
-```
- class Node
- {
-    data; // The data being stored in the node
-    next; // A reference to the next node, usually null for last node
- }
+```js
+class Node {
+  data; // The data being stored in the node
+  next; // A reference to the next node, usually null for last node
+}
 ```
 
 ## Types of Linked List

@@ -21,11 +21,13 @@
 - O (logN) search
 
 ### Disadvantages
+
 - Memory overhead for storing methods
 
 ## Basics and nomenclature
 
 All Binary heaps:
+
 - are complete and have a root. Complete is defined as
   > All levels are completely filled except possibly the last level, and the last level has all keys as left as possible
 - For a Min Heap, each node is smaller than its children, and the root is minimum
@@ -47,7 +49,7 @@ All Binary heaps:
 
 - `insert` - O(logN) time
 
-  1. Insert in bottom level, lowest/leftmost position
+  1. Insert in bottom level, lowest and leftmost position
   2. Swap with parent node until tree is correct, a.k.a Sift/Bubble Up
 
 - `extract_min`, `extract_max` - O(logN) time
@@ -65,7 +67,7 @@ All Binary heaps:
 <details>
 <summary>Javascript implementation</summary>
 
-```
+```js
 class MaxHeap {
     constructor() {
         this.values = [];
@@ -147,7 +149,6 @@ class MaxHeap {
     }
 
 }
-
 ```
 
 </details>

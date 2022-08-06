@@ -18,9 +18,9 @@ A stack is an abstract data type that serves as a collection of elements.
 
 ## Basics and nomenclature
 
-```
+```js
 class Stack {
-    maxsize: number
+    maxSize: number
     size: number
     items: any[]
 }

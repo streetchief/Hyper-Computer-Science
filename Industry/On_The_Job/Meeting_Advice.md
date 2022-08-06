@@ -1,4 +1,5 @@
 # Meeting Advice
+
 1. Meetings should always start on time.
 2. Meetings should end 5 minutes before the next meeting.
 3. Nobody should be on any device during a meeting unless it is to display something to everyone in the room.

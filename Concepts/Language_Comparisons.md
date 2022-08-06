@@ -1,4 +1,5 @@
 # Languages
+
 |   Classes     |   Categories  |   Languages                                                   |
 |---------------|---------------|---------------------------------------------------------------|
 |   Paradigm    |   Procedural  |   C C++ C# Objective-C Java Go                                |

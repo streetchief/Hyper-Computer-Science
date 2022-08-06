@@ -2,7 +2,7 @@
 
 ## Definition
 
-foo
+<!-- TODO -->
 
 [Wikipedia Entry](https://en.wikipedia.org/wiki/)
 
