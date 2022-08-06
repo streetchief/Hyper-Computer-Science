@@ -1,6 +1,6 @@
-This is a collection of resources and explanations I have created, coallated, and collected over time to assist in my Computer Science education and career in development.
+This is a collection of resources and explanations I have created and collected over time to assist in Computer Science education and career development.
 
-Eventually I hope to create something simliar to the following incredible resources:
+Eventually I hope to create something similar to the following incredible resources:
 
 [Hyper-Physics](http://hyperphysics.phy-astr.gsu.edu/hbase/hframe.html)
 
@@ -8,5 +8,4 @@ Eventually I hope to create something simliar to the following incredible resour
 
 Please enjoy!
 
-P.S.
-I gathered all this myself and it has not been reviewed for mistakes, so please use your judgement.
+P.S. This has not been reviewed for mistakes, so please use your judgement.
